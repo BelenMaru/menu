@@ -1,1 +1,1 @@
-# menu | React Hooks | UseEffect | Conditional Rendering | Dynamic approach 
+# Menu | React Hooks | UseEffect | Conditional Rendering | manual and Dynamic approach 
